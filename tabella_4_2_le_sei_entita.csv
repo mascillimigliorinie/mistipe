@@ -1,0 +1,7 @@
+Entità,Funzione,Relazioni principali
+Place,"Luoghi storici e attuali, regione storica, coordinate",Referenziato da Event
+Source,"Paper, documenti d’archivio, interviste, foto, video; livello di certezza; stato dei diritti",Referenziata da Event e Annotation
+Person,"Persone storiche, testimoni contemporanei, autori di fonte",Molti-a-molti con Event
+Event,Attestazioni ed eventi datati,Rinvia a Place e Source; molti-a-molti con Theme
+Theme,"Temi trasversali: lingua romani, samudaripen, mestieri, pregiudizio, cittadinanza",Molti-a-molti con Event e Annotation
+Annotation,"Giudizio interpretativo su un passaggio di fonte: «positivo», coordinata P1–P10, nota editoriale",Rinvia a Source; molti-a-molti con Theme

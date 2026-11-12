@@ -1,0 +1,9 @@
+Fase,Decisione metodologica,Esito
+1. Impianto teorico,Intervenire a monte della formalizzazione; due strumenti analitici; modello a sei entità; perimetro,"Documento di contesto, codebook P1–P10, dataset pilota (20 città), protocollo di consenso v0.1, struttura di tesi"
+2. Etica delle testimonianze,"Adottare CARE e il modello Mukurtu: accesso graduato, restrizioni culturali, etichette, persona di fiducia",Modulo di consenso v0.2
+3. Giustizia archivistica,Passare dalla critica alla produzione di documentazione; consenso continuativo; principi OCAP,Tesi riordinata v2; capitolo condizionale sul counter-surveying
+4. Specifica tecnica,Tradurre il modello e i permessi in requisiti per gli sviluppatori,Specifica del sito v1.1 [consegna da confermare]
+5. Interoperabilità,Colmare il divario con gli standard dell’Heritage Science: crosswalk verso CIDOC-CRM/Linked Art; date in formato EDTF,Tabella di crosswalk (bozza)
+6. Corpus e dizionario,Ampliare il corpus a studi di altri Paesi UE; definire la procedura di costruzione del dizionario semantico,Elenco per Paese; procedura in cinque passi
+7. Prova su una fonte nuova,Annotare un articolo non ancora usato: revisione della regola di esclusione e individuazione di lacune dello schema,Scheda pilota (About 2018)
+8. Categorie di insediamento,Non registrare la distinzione tra antico e nuovo insediamento come attributo; ricostruire traiettorie e autodenominazioni,Soluzione in tre livelli [da recepire nella specifica]

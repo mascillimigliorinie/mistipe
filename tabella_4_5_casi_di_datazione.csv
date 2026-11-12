@@ -1,0 +1,7 @@
+Caso,EDTF,Esempio
+Data certa,YYYY,1486 (Modone)
+Intervallo noto,YYYY/YYYY,1521/1572 (Belgrado)
+Data incerta,YYYY?,1588?
+Data approssimativa,YYYY~,"1450~ (metà Quattrocento, Nauplio)"
+Attestazioni separate,"{YYYY,YYYY}","{1316,1319} (Creta): due attestazioni, non un intervallo"
+Terminus ante quem,../YYYY,../1876 (Rochas)

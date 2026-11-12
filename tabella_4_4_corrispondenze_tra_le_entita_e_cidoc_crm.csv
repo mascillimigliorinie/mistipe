@@ -1,0 +1,7 @@
+Entità Mistipè,Classe CIDOC-CRM,Note
+Place,E53 Place,Corrispondenza diretta
+Event,E5 Event,Luogo con P7 took place at; date con P4 has time-span
+Person,E21 Person,Stessa classe per persone storiche e testimoni; la differenza di visibilità non è coperta dallo standard
+Source,E73 Information Object,"Differenziata per tipo; E33 Linguistic Object per le trascrizioni; per gli oggetti materiali, la classe corrispondente (Human-Made Object in Linked Art)"
+Theme,SKOS Concept,Lo standard rinvia a SKOS per vocabolari e tassonomie
+Annotation,E13 Attribute Assignment,Classe pensata per registrare valori attribuiti da un ricercatore

@@ -1,0 +1,9 @@
+Voce,Problema,Correzione
+Nome di un’interlocutrice,Cognome riportato in modo errato in una nota,Corretto prima dell’inserimento nel testo
+Articolo di About (2018),"Collocato per errore tra gli studi di epoca moderna, con attribuzione imprecisa",Spostato fuori dal corpus storico; usato come prova metodologica
+Regola di esclusione del dizionario,"Escludeva i contesti di criminalizzazione, perdendo tracce positive nelle fonti ostili",Riformulata sul soggetto e non sul tono; doppia codifica
+Citazioni di Gheorghe e Laederich,Riferimenti di riga indicati come approssimativi,Non utilizzabili finché non verificate sugli originali
+Protocollo di consenso,Versione iniziale con accesso binario e clausola di ritiro fissa,"Sostituita dalla v0.2, con accesso graduato e consenso continuativo"
+Etichetta P9,Due diciture per la stessa coordinata,Da uniformare
+Sintassi EDTF per attestazioni multiple,"Elenco senza parentesi graffe, non valido","Corretto in {1316,1319}; sintassi da verificare sulla specifica"
+Riferimento al counter-surveying,Un’attribuzione del 2022 presente in una bozza precedente non è stata verificata,Da verificare o eliminare
